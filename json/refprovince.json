@@ -1,0 +1,49 @@
+{
+	"Province":[
+
+
+
+
+		{
+			"id": 17,
+			"psgcCode": "041000000",
+			"provDesc": "BATANGAS",
+			"regCode": "04",
+			"provCode": "0410",
+			"provCodeDesc": "Batangas@0410"
+		},
+		{
+			"id": 18,
+			"psgcCode": "042100000",
+			"provDesc": "CAVITE",
+			"regCode": "04",
+			"provCode": "0421",
+			"provCodeDesc": "Cavite@0421"
+		},
+		{
+			"id": 19,
+			"psgcCode": "043400000",
+			"provDesc": "LAGUNA",
+			"regCode": "04",
+			"provCode": "0434",
+			"provCodeDesc": "LAGUNA@0434"
+		},
+		{
+			"id": 20,
+			"psgcCode": "045600000",
+			"provDesc": "QUEZON",
+			"regCode": "04",
+			"provCode": "0456",
+			"provCodeDesc": "QUEZON@0456"
+		},
+		{
+			"id": 21,
+			"psgcCode": "045800000",
+			"provDesc": "RIZAL",
+			"regCode": "04",
+			"provCode": "0458",
+			"provCodeDesc": "RIZAL@0458"
+		}
+
+	]
+}
